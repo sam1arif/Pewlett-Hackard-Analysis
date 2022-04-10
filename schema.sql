@@ -48,4 +48,13 @@ create table titles (
 		primary key (emp_no)
 );
 
+-- Dept_Emp
+create table dept_emp (
+		emp_no int not null,
+		dept_no varchar null,
+		from_date date not null,
+		to_date date not null,
+		foreign key (emp_no) references employees (emp_no)
+		foreign key (dept_no) references departments (dept_no)
+		
 select * from departments;
