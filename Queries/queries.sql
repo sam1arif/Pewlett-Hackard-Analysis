@@ -137,4 +137,4 @@ from retirement_info as ri
 		on (ri.emp_no = de.emp_no)
 	inner join departments as d
 		on (de.dept_no = d.dept_no)
-where d.dept_name in ('Sales', 'Development')
+where d.dept_name in ('Sales', 'Development');
