@@ -13,11 +13,11 @@
   3. Categories of employees retiring:
       
       a. 25,916 senior engineers
-      b. 24,926 senior staff![PH3](https://user-images.githubusercontent.com/96811934/162782014-6a384923-92a4-4e0f-84ea-77c2c45a0f28.png)
-
+      b. 24,926 senior staff
       c. 9,285 engineers
       d. 7,636 staff
       e. 3,603 technique leaders
       f. 1,090 assistant engineers
       g. 2 managers
   
+![PH3](https://user-images.githubusercontent.com/96811934/162782272-324afcb0-6dc4-4ac6-b056-2521d92fa8b8.png)
