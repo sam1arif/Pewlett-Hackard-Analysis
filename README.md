@@ -8,7 +8,7 @@
 
   1. A total number of 72,458 employees at PH are retiring soon. ![PH1](https://user-images.githubusercontent.com/96811934/162780233-421512a7-d053-45e8-b4fa-555b2b65498a.png)
 
-  2. A total number of 1549 retiring employees are elgible for the mentorship program to mentor and train new recruits. ![PH2](https://user-images.githubusercontent.com/96811934/162780960-38e4f3b7-5fae-4978-960d-e31b60776504.png)
+  2. A total number of 1,549 retiring employees are elgible for the mentorship program to mentor and train new recruits. ![PH2](https://user-images.githubusercontent.com/96811934/162780960-38e4f3b7-5fae-4978-960d-e31b60776504.png)
   
   3. Categories of employees retiring:
       
@@ -21,3 +21,9 @@
       g. 2 managers
   
 ![PH3](https://user-images.githubusercontent.com/96811934/162782272-324afcb0-6dc4-4ac6-b056-2521d92fa8b8.png)
+
+
+## Summary: 
+
+  As the "silver tsunami" begins to make an impact PH, a staggering number of over 72 thousand roles will need to be filled. Besides, the 1,549 retiring employees who could take the role of mentors are not enough if all the 72 thousand employees retire at once. 
+  
